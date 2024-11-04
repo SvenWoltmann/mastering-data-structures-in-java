@@ -9,7 +9,7 @@ Hier findest du den Code zum Online-Kurs „Mastering Data Structures in Java“
 Kostenlose Video-Reihe „Arrays und Listen in Java“:
 
 * Video 1/3 – [Arrays und Listen in Java - Was unterscheidet sie?](https://www.youtube.com/watch?v=MT5KerZWI1w)
-* Video 2/3 – Arrays in Listen konvertieren: erscheint am 4.11.2024
+* Video 2/3 – [Arrays in Listen konvertieren](https://www.youtube.com/watch?v=McrgATn5J7A)
 * Video 3/3 – Listen in Arrays konvertieren: erscheint am 6.11.2024
 
 ### Java-Versionen PDF Cheat Sheet
